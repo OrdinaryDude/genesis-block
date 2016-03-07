@@ -686,11 +686,17 @@
         "owner_pubkey": "02b384da052badf9a5588d00f63c9273f3f3abb42a01cc730381608833e639fbfe"
     },
     {
-    "btc_amount": 0.1,
-    "mir_amount": 779.1358024691358,
-    "btc_tx": "16be963c8f965ca8cc78df313c6da32d0ad0c2195c1bb24d549cd9b4133d3a30",
-    "btc_block": 401352,
-    "owner_pubkey": "02d395eab4a3116833a503d649a14bedb3a92eb533f95c0b963db7b63e36996599"
+        "btc_amount": 0.1,
+        "mir_amount": 779.1358024691358,
+        "btc_tx": "16be963c8f965ca8cc78df313c6da32d0ad0c2195c1bb24d549cd9b4133d3a30",
+        "btc_block": 401352,
+        "owner_pubkey": "02d395eab4a3116833a503d649a14bedb3a92eb533f95c0b963db7b63e36996599"
+    },
+    {
+        "btc_amount": 0.03168645,
+        "mir_amount": 245.70690425925923,
+        "btc_tx": "e7d64391df6edfbef0ea4fe92fbbce0ad36eb6911b9609f41359eaccbc9ed88e",
+        "btc_block": 401592,
+        "owner_pubkey": "04ae5edcd5325e38e37296f4edd6c20b42e9ff0605d1c6473467fba6afbe120ee7ab82b2fcb269c1f1624ffc06379ee5cfd4cfa9361cdaac0a7f9c642cace3db43"
     }
-
 ]
