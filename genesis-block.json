@@ -1908,7 +1908,8 @@
         "mir_amount": 3030.081049382716,
         "btc_tx": "c2cc697a331e73754326993f93a7d91631a080152d212e1a72047b0f7e25ca33",
         "btc_block": 407657,
-        "owner_pubkey": "0326309cc4fddb2e888a6f536e13da1a4a72da08738c5c93a9b9f5153f87cb3ef9"
+        "owner_pubkey": "02457b06b839b716e5f786e46dd09b7cd51101f5928e414a1ef9fe217af1f06c45",
+        "comment" : "requested pubkey change"
     },
     {
         "btc_amount": 0.5,
