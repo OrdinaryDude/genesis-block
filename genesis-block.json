@@ -964,7 +964,7 @@
         "btc_tx": "df312b2f2bccc9d334d1ecc7bcf032e5ccb148f452be23c5b710ac1e9f16103c",
         "btc_block": 402763,
         "owner_pubkey": "020e7ecad742b94ca31d45b96a7ff80d1458b473250fb821ebae4a5d958faed688",
-        "comment" : "requested manual change, first donation was directly from exchange"
+        "comment": "requested manual change, first donation was directly from exchange"
     },
     {
         "btc_amount": 0.4,
@@ -1910,7 +1910,7 @@
         "btc_tx": "c2cc697a331e73754326993f93a7d91631a080152d212e1a72047b0f7e25ca33",
         "btc_block": 407657,
         "owner_pubkey": "02457b06b839b716e5f786e46dd09b7cd51101f5928e414a1ef9fe217af1f06c45",
-        "comment" : "requested pubkey change"
+        "comment": "requested pubkey change"
     },
     {
         "btc_amount": 0.5,
@@ -2009,5 +2009,12 @@
         "btc_tx": "a921720a53cbd9b78b246a89cf8c2e8c1bdd6701a350419bdebce9cdc391d930",
         "btc_block": 407949,
         "owner_pubkey": "02d2e7180985affa7cc2f2371e8e2d46b61d46ccba22f357107fdfa8f64bfaa6fc"
+    },
+    {
+        "btc_amount": 2.9998,
+        "mir_amount": 20290.776820987656,
+        "btc_tx": "f0ab56376a2e8cdf742291b3e6e752709e84682aae7083acdc8055a180579a6e",
+        "btc_block": 408009,
+        "owner_pubkey": "0272b7ab9d48a3b3f3acdb96d5b5d12c9b5063cfbfb7c087a6dd8e3c1a01cffb56"
     }
 ]
