@@ -368,7 +368,7 @@
         "mir_amount": 8000,
         "btc_tx": "8cd58d9367016007c03acbd51feeb61453feea624dd333034df8af32ff3eccee",
         "btc_block": 399884,
-        "owner_pubkey": "304402202d10cc1c26aad9c31e7e1e13e58e2fb765be5d244891f925eee16392815d7d9e022031f91dc0a2719e771d44dd1783dc999d84e41614c576816f6e27bd4d2d5e6c47[ALL]"
+        "owner_pubkey": "0227efa767af615e95e67f1b50e48396d70ea2fa5238fad02687eeb24fa130f883"
     },
     {
         "btc_amount": 1.2566,
