@@ -1,0 +1,4 @@
+I, the owner of address 15Z5BggJhi1cgv4CV9TFGZ5WNbH7aF7hGf with pubkey 0217e6fb61c54b5e8c9e81d99230bae79edb0430cbaa05f5d73382347f727d84b4, hereby agree to transfer my entire XEL holdings (7321,966975309) to pubkey 036755eb2c89cbfb4bf66e118f3ed166c17357c4163cf7c9c04d07cf3d81dddba6 which belongs to 1BexuDc3UUpMRuxE9YV6TqVWTv9dhEvucF. This transaction is irreversible.
+
+Signature:   HzsStG9Jh9XIPp0YlPK7ajYgjwnN00rg9S7DxhE8VTIGaoay94juawjjATRWe+D8OHuXilMiRvOhUvm6mom3pVM=
+
