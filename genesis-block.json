@@ -2814,5 +2814,12 @@
         "btc_tx": "3886504c4f3b03172e38a480f2d223e05842fb48f4eb4632eca91ee8f29161a6",
         "btc_block": 419553,
         "owner_pubkey": "034049ca4ca8932a4eec6ca7b1344dcc308e8025caa0c270899b086da9611bcd7c"
+    },
+    {
+        "btc_amount": 0.3,
+        "mir_amount": 1481.0648148148148,
+        "btc_tx": "69e920b39a980cacd12aa5987106bd57b3332f08370a626f3e887633d08d77e5",
+        "btc_block": 419849,
+        "owner_pubkey": "02dd5269792b737665296108fb98e786e4e6bedea0435bb9c56ce2a96879fe2c78"
     }
 ]
